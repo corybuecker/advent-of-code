@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "tsx": "^4.7.1",
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.28"
+  }
+}
