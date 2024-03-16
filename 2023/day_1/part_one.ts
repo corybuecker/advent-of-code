@@ -3,7 +3,7 @@ import { readFileSync } from 'node:fs'
 
 let lines: Array<string> = []
 
-const contents = readFileSync('2023/day_1/input.txt')
+const contents = readFileSync('input.txt')
 lines = contents.toString('utf8').split("\n")
 
 const results = []
